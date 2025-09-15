@@ -22,4 +22,4 @@ spec:
           image: nginx
           imagePullPolicy: IfNotPresent
           ports:
-            - containerPort: 443
+            - containerPort: 80
